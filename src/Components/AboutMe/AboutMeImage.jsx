@@ -5,7 +5,7 @@ const AboutMeImage = () => {
     <div className="h-[500px] w-[300px] relative">
       <div className="h-[500px] w-[300px] rounded-[100px] absolute overflow-hidden">
         <img
-          src="https://res.cloudinary.com/dx0gbdkyn/image/upload/v1746792185/B76C55DA-D563-4354-BC98-0A28D0044DAD_deapy7.png"
+          src="https://res.cloudinary.com/dx0gbdkyn/image/upload/v1753756506/WhatsApp_Image_2025-06-08_at_22.03.33_3e9d5d7d_m9z0dg.jpg"
           className="h-full w-auto object-cover"
           alt=""
         />

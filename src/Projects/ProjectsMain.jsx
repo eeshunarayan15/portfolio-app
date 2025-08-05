@@ -5,20 +5,20 @@ import SingleProject from './SingleProject'
 const ProjectsMain = () => {
       const projects = [
         {
-          name: "MovieApp",
+          name: "MovieFinder",
           year: "2025",
           align: "left",
           image:
-            "https://strapi.dhiwise.com/uploads/jusplay_movie_streaming_app_flutter_2_3dfd9cbbfc.jpg",
-          link: "https://movie-app-two-lac.vercel.app/",
+            "https://res.cloudinary.com/dx0gbdkyn/image/upload/v1754399540/Screenshot_2025-08-05_184138_zweiv5.png",
+          link: "https://movie-webapp-tmdbapi.netlify.app/",
         },
         {
-          name: "MovieApp",
+          name: "Paytm-Wallet-Clone",
           year: "2025",
           align: "right",
           image:
-            "https://strapi.dhiwise.com/uploads/jusplay_movie_streaming_app_flutter_2_3dfd9cbbfc.jpg",
-          link: "https://movie-app-two-lac.vercel.app/",
+            "https://res.cloudinary.com/dx0gbdkyn/image/upload/v1754400289/Screenshot_2025-08-05_185424_hrxppe.png",
+          link: "https://github.com/eeshunarayan15/paytm-backend",
         },
         {
           name: "MovieApp",
