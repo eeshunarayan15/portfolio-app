@@ -9,7 +9,7 @@ const FotterMain = () => {
     { link: "Contact", secion: "contact" },
   ];
   return (
-    <div className="px-4 py-10 sm:flex  sm:flex-col">
+    <div className="px-4 py-10  sm:flex  sm:flex-col">
       <div className="w-full h-[1px] bg-gray-400 mt-24"></div>
       <div className="md:flex sm:hidden justify-between mt-4 max-w-[1200px] mx-auto">
         <p className="text-3xl text-gray-400">Eeshu Narayan</p>
